@@ -3,46 +3,6 @@ angular.js bookmarks
 
 A bunch of links about `angular.js`. Feel free to send pull request.
 
-### Table of Contents
-
-[Angular.js for beginners](#begginers)
-[Angular.js videos](#videos)
-[Angular.js - more advanced topics](#advanced)
-[Books](#books)
-[Web](#web)
-[Community](#community)
-[Blogs](#blogs)
-[Exercises](#exercises)
-[Documentation](#documentation)
-[Style guide](#style)
-[AngularJS Internals](internals)
-[Documentation tools](#doc)
-[Testing](#testing)
-[Debugging and profiling](#debug)
-[Package managers](#package)
-[Editors and IDEs](#ide)
-[AngularJS and RequireJS](#require)
-[Templates](#template)
-[Routing](#routing)
-[Directives](#directives)
-[Models](#models)
-[Scopes](#scopes)
-[Expressions](#expressions)
-[Compiler](#compiler)
-[Filters](#filters)
-[Views](#views)
-[Data Binding](#data)
-[Promises](#promises)
-[UI](#ui)
-[Controllers](#controllers)
-[Dependency Injection](#deps)
-[Modules](#models)
-[Services](#services)
-[HTTP](#http)
-[JSON](#json)
-[Providers](#providers)
-[Utils](#utils)
-
 ## Angular.js for beginners
 
   * [Angular.js official site](http://angularjs.org/)
